@@ -4,7 +4,7 @@ const RESOURCES_TO_PRELOAD = [
 	'logo.svg',
 	'register-worker.js',
 	'todo-app.js',
-	'manifest.json'
+	'pwa-manifest.json'
 	//'offline-404.html'
 ];
 
